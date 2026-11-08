@@ -1,8 +1,0 @@
-command: ["streamlit", "run", "app.py"]
-env:
-  - name: DATABRICKS_WAREHOUSE_ID
-    valueFrom: sql-warehouse
-  - name: GEMINI_API_KEY
-    valueFrom: gemini-key
-  - name: GEMINI_MODEL
-    value: "gemini-3.8-flash"
