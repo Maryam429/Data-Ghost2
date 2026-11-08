@@ -1,5 +1,0 @@
-streamlit
-pandas
-databricks-sql-connector
-databricks-sdk
-google-genai
