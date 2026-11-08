@@ -1,0 +1,6 @@
+streamlit
+pandas
+altair
+databricks-sql-connector
+databricks-sdk
+google-genai
