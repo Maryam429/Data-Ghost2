@@ -1,0 +1,1 @@
+DataGhost: AI-powered insider threat detection. Databricks (Spark, Delta Lake, MLflow) profiles employee behavior and scores risky data movement; a Gemini AI agent investigates alerts and explains them in plain English. All data is synthetic.
